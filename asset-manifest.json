@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "alexei503.github.io/tictactoe/static/css/main.621c92a7.chunk.css",
+    "main.js": "alexei503.github.io/tictactoe/static/js/main.0ac6f443.chunk.js",
+    "main.js.map": "alexei503.github.io/tictactoe/static/js/main.0ac6f443.chunk.js.map",
+    "runtime-main.js": "alexei503.github.io/tictactoe/static/js/runtime-main.3b92fb2e.js",
+    "runtime-main.js.map": "alexei503.github.io/tictactoe/static/js/runtime-main.3b92fb2e.js.map",
+    "static/js/2.52dd166e.chunk.js": "alexei503.github.io/tictactoe/static/js/2.52dd166e.chunk.js",
+    "static/js/2.52dd166e.chunk.js.map": "alexei503.github.io/tictactoe/static/js/2.52dd166e.chunk.js.map",
+    "index.html": "alexei503.github.io/tictactoe/index.html",
+    "precache-manifest.c47dedc1d97b98f208ad59f75fc3a845.js": "alexei503.github.io/tictactoe/precache-manifest.c47dedc1d97b98f208ad59f75fc3a845.js",
+    "service-worker.js": "alexei503.github.io/tictactoe/service-worker.js",
+    "static/css/main.621c92a7.chunk.css.map": "alexei503.github.io/tictactoe/static/css/main.621c92a7.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b92fb2e.js",
+    "static/js/2.52dd166e.chunk.js",
+    "static/css/main.621c92a7.chunk.css",
+    "static/js/main.0ac6f443.chunk.js"
+  ]
+}
